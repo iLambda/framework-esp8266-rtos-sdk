@@ -1,9 +1,9 @@
 {
   "framework-esp8266-rtos-sdk": [
     {
-      "sha1": "ec8d36b3e64a5472373b5609677455452631de78",
+      "sha1": "d8bfd0f3d4a643cc7531054ed60b19e7e3ca3a0a",
       "system": "*",
-      "url": ".tar.gz",
+      "url": "https://github.com/ilambda/framework-esp8266-rtos-sdk/raw/master/ESP8266_RTOS_SDK-3.0.0.tar.gz",
       "version": "3.0.0"
     }
 
