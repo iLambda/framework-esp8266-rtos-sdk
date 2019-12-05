@@ -10,7 +10,7 @@
   ],
   "toolchain-xtensa": [
     {
-      "sha1": "468b95bf1ed8750e8d874091915982bf2ce9713f",
+      "sha1": "300e1d359e42ae44d72b49a2671a7ac0f3a33ff0",
       "system": "*",
       "url": "https://github.com/ilambda/framework-esp8266-rtos-sdk/raw/master/xtensa-lx106-elf-linux64-5.2.0.tar.gz",
       "version": "5.2.0"
